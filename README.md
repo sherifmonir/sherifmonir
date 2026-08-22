@@ -8,7 +8,7 @@ I like taking a project past where the tutorial ends — on **Lumio**, that mean
 -🌱 Currently learning: automated testing with jest and React Testing Library
 -💬 Fluent in English and Arabic
 -📍 Open to front-end developer roles in UAE
--📩 Reach me: sherif.monir.badreddin@gmail.com • [LinkedIn](linkedin.com/in/sherif-monir-a502151a9)
+-📩 Reach me: sherif.monir.badreddin@gmail.com • [LinkedIn](linkedin.com/in/sherif-monir)
 
 ---
 
