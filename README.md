@@ -35,9 +35,9 @@ I like taking a project past where the tutorial ends — on **Lumio**, that mean
 
 ### 🛠️ Featured Projects
 
- ** Lumio Live • Code — a full-stack Instagram-style social platform (React, TypeScript, Appwrite, Tailwind CSS, TanStack Query). Independently designed a follow system with a normalized schema and database-level unique-pair enforcement, plus live search and a personalized home feed that avoids empty states for new users.
+ ** Lumio [Live](https://my-lumio.netlify.app/) • [Code](https://github.com/sherifmonir/Lumio) — a full-stack Instagram-style social platform (React, TypeScript, Appwrite, Tailwind CSS, TanStack Query). Independently designed a follow system with a normalized schema and database-level unique-pair enforcement, plus live search and a personalized home feed that avoids empty states for new users.
 
- ** Good Story Live • Code — a movie search app (React, Tailwind CSS, TMDB API) with debound real-time search and a trending-searches feature powered by Appwrite.
+ ** Good Story [Live](https://goodstory.netlify.app/) • [Code](https://github.com/sherifmonir/good-story) — a movie search app (React, Tailwind CSS, TMDB API) with debound real-time search and a trending-searches feature powered by Appwrite.
 
 ### 🔗 Connect With Me
 
