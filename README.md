@@ -42,7 +42,9 @@ I like taking a project past where the tutorial ends — on **Lumio**, that mean
 ### 🔗 Connect With Me
 
 <p align="left">
-E-Mail: [sherif.monir.badreddin@gmail.com](sherif.monir.badreddin@gmail.com)
-LinkedIn: [linkedin.com/in/sherif-monir](linkedin.com/in/sherif-monir)
+E-Mail: sherif.monir.badreddin@gmail.com
+</p>
+<p align="left">
+LinkedIn: linkedin.com/in/sherif-monir
 </p>
 
