@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Front-end developer based in Dubai, UAE. I completed Scrimba's Front-End Developer Career Path and Build with React, TypeScript, Appwrite, and Tailwind CSS.
+Front-end developer based in Dubai, UAE. I completed Scrimba's Front-End Developer Career Path and Build with React, TypeScript, Next.js, Appwrite, and Tailwind CSS.
 
 I like taking a project past where the tutorial ends — on **Lumio**, that meant designing and building an entire follow system and personalized feed ranking from scratch, none of which was part of the original build.  
 
@@ -25,6 +25,7 @@ I like taking a project past where the tutorial ends — on **Lumio**, that mean
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)" alt="Next JS" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -35,9 +36,9 @@ I like taking a project past where the tutorial ends — on **Lumio**, that mean
 
 ### 🛠️ Featured Projects
 
- ** Lumio [Live](https://my-lumio.netlify.app/) • [Code](https://github.com/sherifmonir/Lumio) — a full-stack Instagram-style social platform (React, TypeScript, Appwrite, Tailwind CSS, TanStack Query). Independently designed a follow system with a normalized schema and database-level unique-pair enforcement, plus live search and a personalized home feed that avoids empty states for new users.
+ ** Lumio [Live](https://my-lumio.netlify.app/) • [Code](https://github.com/sherifmonir/Lumio) — a full-stacksocial platform (React, TypeScript, Appwrite, Tailwind CSS, TanStack Query). Independently designed a follow system with a normalized schema and database-level unique-pair enforcement, live search and a personalized home feed that avoids empty states for new users, Plus  threaded comments, @mentions, notifications, dark mode
 
- ** Good Story [Live](https://goodstory.netlify.app/) • [Code](https://github.com/sherifmonir/good-story) — a movie search app (React, Tailwind CSS, TMDB API) with debound real-time search and a trending-searches feature powered by Appwrite.
+ ** Good Story [Live](https://goodstory.netlify.app/) • [Code](https://github.com/sherifmonir/good-story) — a movie search app (React, Tailwind CSS, TMDB API) with debounced real-time search and a trending-searches feature powered by Appwrite, Independently added , movie details and trailers page
 
 ### 🔗 Connect With Me
 
