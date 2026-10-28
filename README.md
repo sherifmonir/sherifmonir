@@ -12,7 +12,10 @@
 
 Front-end developer based in Dubai, UAE. I completed Scrimba's Front-End Developer Career Path and Build with React, TypeScript, Next.js, Appwrite, and Tailwind CSS.
 
-I like taking a project past where the tutorial ends — on **Lumio**, that meant designing and building an entire follow system and personalized feed ranking from scratch, none of which was part of the original build.  
+I like taking a project past where the tutorial ends — on **Lumio**, that meant designing and building an entire follow system and personalized feed ranking from scratch, none of which was part of the original build.
+
+I use agentic AI coding tools to plan, build, and debug responsive web apps, and I verify everything they generate before it ships. I recently completed Scrimba's Learn Agentic Coding course.
+
 
 -🔭 Currently building: real-time chat and notification for Lumio, and movie detail pages for Good Story  
 -🌱 Currently learning: automated testing with jest and React Testing Library  
