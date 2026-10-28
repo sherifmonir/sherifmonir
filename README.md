@@ -17,7 +17,6 @@ I like taking a project past where the tutorial ends — on **Lumio**, that mean
 I use agentic AI coding tools to plan, build, and debug responsive web apps, and I verify everything they generate before it ships. I recently completed Scrimba's Learn Agentic Coding course.
 
 
--🔭 Currently building: real-time chat and notification for Lumio, and movie detail pages for Good Story  
 -🌱 Currently learning: automated testing with jest and React Testing Library  
 -💬 Fluent in English and Arabic  
 -📍 Open to front-end developer roles in UAE
